@@ -4,4 +4,4 @@ You need `bash`, run:
 
 `$ ./debloat.sh`
 
-See the script for details, use at your own risk.
+See the script for details
